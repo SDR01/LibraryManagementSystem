@@ -45,6 +45,15 @@ add, delete, upadate, issue, return a book and calculate fines for any late retu
 * Book Module
 * User Module
 
+<!-- ============================================  ER - DIAGRAM ======================================================  -->
+
+# ER Diagram
+
+The following Diagram depicts the flow of our Entity Relation Diagram to simplify the work flow.
+
+<img src="https://i.postimg.cc/9VVk1Nf0/LMS-DB.png" width="100%">
+
+
 <!-- ============================================  API ROOT ENDPOINTS ======================================================  -->
 
 # API Root Endpoint
